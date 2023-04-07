@@ -1,0 +1,22 @@
+body {
+    width: 400px;
+    margin: 30px auto;
+}
+
+table,th,td {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid red;
+}
+table{
+    margin-left: 20px;
+}
+
+th {
+    background-color: yellow;
+}
+td {
+    background-color: aliceblue;
+}
+th,td {
+    padding: 10px;
+}
